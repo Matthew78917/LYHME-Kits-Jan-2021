@@ -2,8 +2,8 @@ Needs
     Claim Flag (1158), Green Bedroll (290), Metal Door (378), Metal Sign (1098)
 Starter
     Green Hoodie (161), Work Jeans (2), Flashlight (276), 3x Bottled Water (14), 2x Canned Beans (13), Chart (1175)
-Engine
-    Portable Gas Can (28), Battery (1450)
+Vehicle
+    3x Portable Gas Can (28), 2x Vehicle Battery (1450), 2x Tire (1451), Carjack (277)
 Medic
     3x Dressing (394), 5x Bandage (95), 4x Vaccine (269), 2x Medkit (15), 4x Adrenaline (387)
 XP
