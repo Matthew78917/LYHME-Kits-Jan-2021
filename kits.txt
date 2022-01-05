@@ -88,7 +88,7 @@ Assault 6h
     Forest Military Vest (310)
     Alicepack (253)
     Heartbreaker (1037)
-    2x Military Drum (17)
+    Military Drum (17)
     2x Fragmentation Grenade (254)
     2x Canned Beans (13)
     Dot Sight (146)
