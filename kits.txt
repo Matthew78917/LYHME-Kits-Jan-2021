@@ -78,10 +78,8 @@ VIP 6h
     3x Bottled Water (14)
     2x Portable Gas Can (28)
     Low Caliber Military Ammunition Crate (43)
-    Low Caliber Civilian Ammunition Box (4
-
+    Low Caliber Civilian Ammunition Box (44)
     Blowtorch (76)
-    Tire (1451)
     Chainsaw (490)
 Assault 6h
     Forest Military Helmet (309)
