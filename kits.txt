@@ -106,7 +106,7 @@ SMG 6h
 Sniper 6h
     Alicepack (253)
     Avenger (1021)
-    16x Scope (296)
+    "16x Scope" (296)
     2x Bloodbag (395)
     Rangefinder (1008)
     Avenger Magazine (1022)
@@ -197,7 +197,7 @@ DELUXE 6h
     Alicepack (253)
     3x Filter (1271)
     Rangefinder (1008)
-    16x Scope (296)
+    "16x Scope" (296)
     Green Bedroll (209)
     2x Demolition Charge (1241)
     High Caliber Military Ammunition Crate (1192)
