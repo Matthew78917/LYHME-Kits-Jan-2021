@@ -17,7 +17,7 @@ Specops
 Scavenger
     Headlamp (1199), Tracksuit Top (1391), Tracksuit Bottom (1392), Heartbreaker (1037), Dot Sight (146), 2x Canned Beans (13), 2x Canned Cola (80), Binoculars (333), Military Magazine (6)
 Assassin    
-    Black Parka (182), Trouser Pants (214), Bloodbag (395), 4x Canned Beans (13), Military Magazine (6), Military Suppressor (7), Dot Sight (146), 2x Avenger Magazine (1022), Tactical Laser (151), PDW (116), Avenger (1021), 2x Black Smoke (261)
+    Black Parka (182), Trouser Pants (214), Bloodbag (395), 4x Canned Beans (13), Military Magazine (6), Military Suppressor (7), Dot Sight (146), 2x Avenger Magazine (1022), Tactical Laser (151), Avenger (1021), 2x Black Smoke (261)
 
 VIP
     Alicepack (253), 3x BLT Sandwich [Inorganic] (467), 3x Bottled Water (14), 2x Portable Gas Can (28), Low Caliber Military Ammunition Crate (43), Low Caliber Civilian Ammunition Box (44), Blowtorch (76), Tire (1451), Chainsaw (490)
@@ -52,4 +52,4 @@ Sentry
 DELUXE
     Green Shirt (163), Cargo Pants (209), Forest Military Vest (310), Alicepack (253), Grizzly (297), 3x Filter (1271), Rangefinder (1008), 16x Scope (296), Green Bedroll (209), 2x Demolition Charge (1241), High Caliber Military Ammunition Crate (1192), 2x Grizzly Magazine (298)
 Heavy
-    Forest Military Helmet (309), Civilian Nightvision (1044), Forest Military Top (307), Forest Military Bottom (308), Forest Military Vest (310), PDW (116), Military Drum (17), Vertical Grip (8)
+    Forest Military Helmet (309), Civilian Nightvision (1044), Forest Military Top (307), Forest Military Bottom (308), Forest Military Vest (310), Military Drum (17), Vertical Grip (8)
