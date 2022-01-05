@@ -11,20 +11,20 @@ XP 24h
 Russian 6h
     Military Nightvision (334), Military Top [Russia] (1333), Military Bottom [Olive] (1334), Augewehr (1362), Bulldog (1369), Kobra Sight (1004), Ranger Drum (125), Bulldog Magazine (1371), 2x Vodka (19430)
 Hunter 6h
-    Black Travelpack (245), Sabertooth (1018), 2x Tuna Sandwich (461), Ham Sandwich (468), 2x Bottled Water (14), 2x Sabertooth Magazine (1020), Cargo Pants (209), Yellow Shirt (171)
+    Black Travelpack (245), Sabertooth (1018), 2x Tuna Sandwich (461), Ham Sandwich (468), 2x Bottled Water (14), Sabertooth Magazine (1020), Cargo Pants (209), Yellow Shirt (171)
 Specops 6h
     Black Cap (425), Military Nightvision (334), Nightraider (1377), Ranger Drum (125), 2x Red Flare [Projectile] (259), 2x Black Smoke (261), Binoculars (333)
 Scavenger 6h
     Headlamp (1199), Tracksuit Top (1391), Tracksuit Bottom (1392), Heartbreaker (1037), Dot Sight (146), 2x Canned Beans (13), 2x Canned Cola (80), Binoculars (333), Military Magazine (6)
 Assassin 4h
-    Black Parka (182), Trouser Pants (214), Bloodbag (395), 4x Canned Beans (13), Military Magazine (6), Military Suppressor (7), Dot Sight (146), 2x Avenger Magazine (1022), Tactical Laser (151), Avenger (1021), 2x Black Smoke (261)
+    Black Parka (182), Trouser Pants (214), Bloodbag (395), 4x Canned Beans (13), Military Suppressor (7), Dot Sight (146), Avenger Magazine (1022), Tactical Laser (151), Avenger (1021), 2x Black Smoke (261)
 
 VIP 6h
     Alicepack (253), 3x BLT Sandwich [Inorganic] (467), 3x Bottled Water (14), 2x Portable Gas Can (28), Low Caliber Military Ammunition Crate (43), Low Caliber Civilian Ammunition Box (44), Blowtorch (76), Tire (1451), Chainsaw (490)
 Assault 6h
     Forest Military Helmet (309), Forest Military Top (307), Forest Military Bottom (308), Forest Military Vest (310), Alicepack (253), Heartbreaker (1037), 2x Military Drum (17), 2x Fragmentation Grenade (254), 2x Canned Beans (13), Dot Sight (146), Vertical Grip (8), Military Barrel (149)
 SMG 6h
-    Desert Military Helmet (1010), Desert Military Top (1011), Desert Military Bottom (1012), Desert Military Vest (1013), Alicepack (253), Calling Card (1379), 2x Calling Card Magazine (1381), Dot Sight (146)
+    Desert Military Helmet (1010), Desert Military Top (1011), Desert Military Bottom (1012), Desert Military Vest (1013), Alicepack (253), Calling Card (1379), Calling Card Magazine (1381), Dot Sight (146)
 Sniper 6h
     Alicepack (253), Avenger (1021), 16x Scope (296), 2x Bloodbag (395), Rangefinder (1008), Avenger Magazine (1022), Bipod (143), Military Suppressor (7)
 Attachment 6h
@@ -35,15 +35,15 @@ VIPPlus 6h
 Gas 4h
     Carjack (277), Portable Gas Can (28), Blowtorch (76), Vehicle Battery (1450)
 Military 6h
-    Military Nightvision (334), Forest Military Top (307), Forest Military Bottom (308), Forest Military Vest (310), Desert Falcon (488), Binoculars (333), Bloodbag (395), Vertical Grip (8), Military Drum (17), 2x Desert Falcon Magazine (489), Low Caliber Military Ammunition Crate (43), Military Knife (121)
+    Military Nightvision (334), Forest Military Top (307), Forest Military Bottom (308), Forest Military Vest (310), Desert Falcon (488), Binoculars (333), Bloodbag (395), Vertical Grip (8), Military Drum (17), Desert Falcon Magazine (489), Low Caliber Military Ammunition Crate (43), Military Knife (121)
 
 MVP 6h
-    Ghillie Hood [Forest] (237), Military Nightvision (334), Ghillie Top [Forest] (235), Ghillie Bottom [Forest] (236), Ghillie Vest [Forest] (238), Alicepack (253), Sabertooth (1018), Chainsaw (490), 2x Portable Gas Can (28), 2x Low Caliber Military Ammunition Crate (43), 2x Sabertooth Magazine (1020)
+    Ghillie Hood [Forest] (237), Military Nightvision (334), Ghillie Top [Forest] (235), Ghillie Bottom [Forest] (236), Ghillie Vest [Forest] (238), Alicepack (253), Sabertooth (1018), Chainsaw (490), 2x Portable Gas Can (28), 2x Low Caliber Military Ammunition Crate (43), Sabertooth Magazine (1020)
 Bandit 4h
     Thief Top (1156), Thief Botttom (1157), 3x Bottled Water (14), Bulldog (1369), Bulldog Magazine (1371), 3x Canned Bacon (88)
 
 MVPPlus 6h
-    Ghillie Hood [Olive] (1356), Military Nightvision (334), Ghillie Top [Olive] (1354), Ghillie Bottom [Olive] (1355), Ghillie Vest [Olive] (1357), Alicepack (253), Sabertooth (1018), Chainsaw (490), 4x Sabertooth Magazine (1020), 2x Portable Gas Can (28), 2x Low Caliber Military Ammunition Crate (43), 2x Low Caliber Civilian Ammunition Box (44)
+    Ghillie Hood [Olive] (1356), Military Nightvision (334), Ghillie Top [Olive] (1354), Ghillie Bottom [Olive] (1355), Ghillie Vest [Olive] (1357), Alicepack (253), Sabertooth (1018), Chainsaw (490), Sabertooth Magazine (1020), 2x Portable Gas Can (28), 2x Low Caliber Military Ammunition Crate (43), 2x Low Caliber Civilian Ammunition Box (44)
 Sentry 6h
     Headlamp (1199), Engineer Top (407), Engineer Bottom (408), 2x Cagelight (1222), Blowtorch (76), Portable Gas Can (28), Portable Generator (458), 2x Neutral Sentry (1244)
 
