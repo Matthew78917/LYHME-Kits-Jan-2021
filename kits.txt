@@ -45,7 +45,7 @@ Bandit 4h
 MVPPlus 6h
     Ghillie Hood [Olive] (1356), Military Nightvision (334), Ghillie Top [Olive] (1354), Ghillie Bottom [Olive] (1355), Ghillie Vest [Olive] (1357), Alicepack (253), Sabertooth (1018), Chainsaw (490), 4x Sabertooth Magazine (1020), 2x Portable Gas Can (28), 2x Low Caliber Military Ammunition Crate (43), 2x Low Caliber Civilian Ammunition Box (44)
 Sentry 6h
-    Headlamp (1199), Engineer Top (407), Engineer Bottom (408), 2x Spotlight (459), Blowtorch (76), Portable Gas Can (28), Portable Generator (458), 2x Neutral Sentry (1244)
+    Headlamp (1199), Engineer Top (407), Engineer Bottom (408), 2x Cagelight (1222), Blowtorch (76), Portable Gas Can (28), Portable Generator (458), 2x Neutral Sentry (1244)
 
 DELUXE 6h
     Green Shirt (163), Cargo Pants (209), Forest Military Vest (310), Alicepack (253), 3x Filter (1271), Rangefinder (1008), 16x Scope (296), Green Bedroll (209), 2x Demolition Charge (1241), High Caliber Military Ammunition Crate (1192)
