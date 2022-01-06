@@ -167,10 +167,10 @@ Bandit 4h
     3x Bottled Water (14)
 
 MVPPlus 6h
-    Ghillie Hood [Olive] (1356)
     Military Nightvision (334)
     Ghillie Top [Olive] (1354)
     Ghillie Bottom [Olive] (1355)
+    Ghillie Hood [Olive] (1356)
     Ghillie Vest [Olive] (1357)
     Alicepack (253)
     Sabertooth (1018)
@@ -195,11 +195,11 @@ DELUXE 6h
     Forest Military Vest (310)
     Alicepack (253)
     3x Filter (1271)
+    Green Bedroll (209)
     Rangefinder (1008)
     "16x Scope" (296)
-    Green Bedroll (209)
-    2x Demolition Charge (1241)
     High Caliber Military Ammunition Crate (1192)
+    2x Demolition Charge (1241)
 Heavy 6h
     Forest Military Helmet (309)
     Forest Military Top (307)
