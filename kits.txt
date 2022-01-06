@@ -188,6 +188,8 @@ Sentry 6h
     Portable Gas Can (28)
     Portable Generator (458)
     2x Neutral Sentry (1244)
+MVPPlusAirdrop 1w
+    LYHME Airdrop Smoke (25545)
 
 DELUXE 6h
     Green Shirt (163)
@@ -206,3 +208,5 @@ Heavy 6h
     Forest Military Bottom (308)
     Forest Military Vest (310)
     Military Nightvision (334)
+DeluxeAirdrop 1w
+    LYHME Airdrop Smoke (25545)
