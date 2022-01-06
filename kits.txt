@@ -202,9 +202,7 @@ DELUXE 6h
     High Caliber Military Ammunition Crate (1192)
 Heavy 6h
     Forest Military Helmet (309)
-    Civilian Nightvision (1044)
     Forest Military Top (307)
     Forest Military Bottom (308)
     Forest Military Vest (310)
-    Military Drum (17)
-    Vertical Grip (8)
+    Military Nightvision (334)
