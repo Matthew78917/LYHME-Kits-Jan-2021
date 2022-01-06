@@ -161,10 +161,10 @@ MVP 6h
 Bandit 4h
     Thief Top (1156)
     Thief Botttom (1157)
-    3x Bottled Water (14)
     Bulldog (1369)
     Bulldog Magazine (1371)
     3x Canned Bacon (88)
+    3x Bottled Water (14)
 
 MVPPlus 6h
     Ghillie Hood [Olive] (1356)
