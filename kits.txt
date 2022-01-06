@@ -21,7 +21,7 @@ Medic 3h
     4x Vaccine (269)
     2x Medkit (15)
     4x Adrenaline (387)
-XP 24h
+XP 1d
     1000 Experience
 Russian 6h
     Military Nightvision (334)
