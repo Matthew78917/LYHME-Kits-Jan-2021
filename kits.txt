@@ -105,8 +105,8 @@ SMG 6h
     Dot Sight (146)
 Sniper 6h
     Alicepack (253)
-    Avenger (1021)
-    Avenger Magazine (1022)
+    Hawkhound (109)
+    Hawkhound Magazine (111)
     "16x Scope" (296)
     Military Suppressor (7)
     Rangefinder (1008)
