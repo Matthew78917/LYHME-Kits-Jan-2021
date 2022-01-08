@@ -122,7 +122,7 @@ Attachment 6h
 
 VIPPlus 6h
     Alicepack (253)
-    Portable Gas Can (29)
+    Portable Gas Can (28)
     Blowtorch (76)
     Fire Axe (104)
     2x Low Caliber Military Ammunition Crate (43)
